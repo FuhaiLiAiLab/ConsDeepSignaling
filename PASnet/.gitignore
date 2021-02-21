@@ -1,0 +1,42 @@
+# pycache
+/__pycache__/*
+**.DS_Store
+**.png
+**.pdf
+**.h5
+
+# GDSC-Dataset
+/GDSC/cnv_20191101/cnv_abs_copy_number_picnic_20191101.csv
+/GDSC/cnv_20191101/filtered_cnv_gistic_20191101.csv
+/GDSC/cnv_20191101/tailed_cnv_gistic_20191101.csv
+
+/GDSC/rnaseq_20191101/rnaseq_read_count_20191101.csv
+/GDSC/rnaseq_20191101/filtered_rnaseq_fpkm_20191101.csv
+/GDSC/rnaseq_20191101/tailed_rnaseq_fpkm_20191101.csv
+
+/GDSC/dose_responce_25Feb20/GDSC1_fitted_dose_response_25Feb20.xlsx
+
+# datainfo/mid_data/
+/datainfo/mid_data/GDSC2_dl_input.txt
+/datainfo/mid_data/mid_GDSC2_dl_input.txt
+/datainfo/mid_data/final_GDSC2_dl_input.txt
+/datainfo/mid_data/intersect_cnv_gistic_20191101.csv
+/datainfo/mid_data/intersect_rnaseq_fpkm_20191101.csv
+/datainfo/mid_data/Ordered_Selected_Kegg_Pathways2.csv
+/datainfo/mid_data/gene_pathway_matrix.npy
+
+# datainfo/filtered_data
+/datainfo/filtered_data/*.npy
+/datainfo/filtered_data/*.csv
+/datainfo/filtered_data/zerofinal_GDSC2_dl_input.txt
+
+# datainfo/post_data
+/datainfo/post_data
+/datainfo/post_data_2feature
+
+# datainfo/result/
+datainfo/result/
+datainfo/regression_result/
+
+# datainfo/plot
+datainfo/plot
