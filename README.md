@@ -15,7 +15,7 @@ This study intergrates following datasets
 * KEGG signaling pathways and cellular process
 * Drug-Target interactions from DrugBank database
 
-GDSC data sets are included in folder *GDSC*, and other data sets are included in *init_data* and *mid_data*.  
+GDSC data sets are included in folder */GDSC*, and other data sets are included in */datainfo/init_data* and */datainfo/mid_data*.  
 
 In the main function of *parse_file.py*, we can adjust *k* to choose number of folds and choose *place_num* to get certain split of data set.  
 
