@@ -172,12 +172,12 @@ if __name__ == "__main__":
     ############################################################################
 
     # LEARNING RATE SCHEDULE IN DEEP NEURAL NETWORK
-    # batch_size = 256
-    # verbose = 0
-    # learn_schedule_dnn(matrixA, matrixB, num_gene, num_pathway, layer1, layer2, layer3,
-    #             dir_opt, input_num, batch_size, verbose)
+    batch_size = 256
+    verbose = 0
+    learn_schedule_dnn(matrixA, matrixB, num_gene, num_pathway, layer1, layer2, layer3,
+                dir_opt, input_num, batch_size, verbose)
     
-    # MANUAL TEST NETWORK
-    path = '.' + dir_opt + '/result/epoch_29'
-    learning_rate = 0.001
-    manual_test_rand_nn(matrixA, matrixB, num_gene, num_pathway, layer1, layer2, layer3, path, dir_opt, learning_rate)
+    # # MANUAL TEST NETWORK
+    # path = '.' + dir_opt + '/result/epoch_29'
+    # learning_rate = 0.001
+    # manual_test_rand_nn(matrixA, matrixB, num_gene, num_pathway, layer1, layer2, layer3, path, dir_opt, learning_rate)
