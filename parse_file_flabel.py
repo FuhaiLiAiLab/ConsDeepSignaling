@@ -71,6 +71,7 @@ class ParseFile():
         random_final_dl_input_df = pd.read_table('./datainfo/filtered_data/Randomfinal_GDSC2_dl_input.txt', delimiter = ',')
         false_auc = random_final_dl_input_df['AUC'].sample(frac = 1).values
         random_final_dl_input_df.insert(2, 'False AUC', false_auc, True)
+        # random_final_dl_input_df = random_final_dl_input_df.drop(columns=['AUC'])
         print(random_final_dl_input_df)
         random_final_dl_input_df.to_csv('./datainfo/filtered_data/Randomfinal_GDSC2_dl_input_flabel.txt', index = False, header = True)
 
@@ -493,3 +494,5 @@ if __name__ == "__main__":
     k = 5
     place_num = 1
     k_fold_split(random_mode, k, place_num)
+
+    # ParseFile.random_label()
