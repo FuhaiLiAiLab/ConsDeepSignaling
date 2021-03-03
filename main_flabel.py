@@ -178,6 +178,6 @@ if __name__ == "__main__":
                 dir_opt, input_num, batch_size, verbose)
     
     # # MANUAL TEST NETWORK
-    # path = '.' + dir_opt + '/result/epoch_29'
+    # path = '.' + dir_opt + '/result/epoch_49'
     # learning_rate = 0.001
     # manual_test_rand_nn(matrixA, matrixB, num_gene, num_pathway, layer1, layer2, layer3, path, dir_opt, learning_rate)

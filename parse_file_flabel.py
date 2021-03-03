@@ -145,6 +145,7 @@ class ParseFile():
             if target not in target_list:
                 target_list.append(target)
         target_list = sorted(target_list)
+        import pdb; pdb.set_trace()
         # CONVERT THE SORTED LIST TO DICT WITH VALUE OF INDEX
         drug_dict = {drug_list[i] : i for i in range((len(drug_list)))} 
         drug_num_dict = {i : drug_list[i] for i in range((len(drug_list)))} 
