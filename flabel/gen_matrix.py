@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
-from parse_file import ParseFile       
+
+from parse_file_flabel import ParseFile       
 
 class GenMatrix():
     def __init__(self):

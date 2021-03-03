@@ -8,10 +8,10 @@ import tensorflow as tf
 from keras import Model
 from keras.optimizers import Adam
 from keras.models import load_model
+
 from gen_matrix import GenMatrix
 from parse_file_flabel import ParseFile
 from load_data_flabel import LoadData
-from analysis import Analyse
 from keras_rand_nn_flabel import RandNN, RunRandNN
 
 # BUILD DECOMPOSED MODEL

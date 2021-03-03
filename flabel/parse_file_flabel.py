@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from numpy import savetxt
 
-from load_data import LoadData
+from load_data_flabel import LoadData
 
 class ParseFile():
     def __init__(self):
@@ -491,7 +491,7 @@ if __name__ == "__main__":
     # zero_final()
 
     # DOING K-FOLD VALIDATION IN 100% DATASET
-    random_mode = True
+    random_mode = False
     k = 5
     place_num = 1
     k_fold_split(random_mode, k, place_num)
