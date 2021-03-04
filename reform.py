@@ -4,13 +4,13 @@ import pandas as pd
 from numpy import savetxt
 from sklearn.metrics import mean_squared_error
 
-from load_data_flabel import LoadData
+from load_data import LoadData
 
 class Reform():
     def __init__(self, dir_opt):
         self.dir_opt = dir_opt
 
-    def drug_gene_reform(self):
+    def drug_gene_pathway_reform(self):
         dir_opt = self.dir_opt
         rna_df = pd.read_csv('./datainfo/filtered_data/tailed_rnaseq_fpkm_20191101.csv')
         gene_list = list(rna_df['symbol'])
@@ -43,20 +43,34 @@ class Reform():
                     if effect == 1: temp_drug_list.append(mapped_drug)
                 if len(temp_drug_list) == 0: temp_drug_list = ['NaN']
                 multi_drug_list.append(temp_drug_list)
-        print(multi_drug_list)
-        print(len(multi_drug_list))
-        d = {'Drugs': multi_drug_list, 'Genes': gene_list}
-        df = pd.DataFrame(d, columns=['Drugs','Genes'])
-        df.to_csv('./datainfo/filtered_data/drug_gene.csv', index = False, header = True)
-        a_df = pd.read_csv('./datainfo/filtered_data/drug_gene.csv')
-        print(a_df)
+        # CONVERT EACH GENES TARGETED DRUGS TO DATAFRAME
+        drug_gene = {'Drugs': multi_drug_list, 'Genes': gene_list}
+        drug_gene_df = pd.DataFrame(drug_gene, columns=['Drugs','Genes'])
+        drug_gene_df.to_csv('./datainfo/filtered_data/drug_gene.csv', index = False, header = True)
 
-
-    def drug_gene_pathway_reform():
-        return 0
+        # ADD PATHWAYS TO CORRESPONDING GENES
+        gene_pathway_df = pd.read_csv('./datainfo/filtered_data/Tailed_Selected_Kegg_Pathways2.csv')
+        pathway_name_list = list(gene_pathway_df.columns)[1:]
+        multi_pathway_list = []
+        # import pdb; pdb.set_trace()
+        for row in gene_pathway_df.itertuples():
+            temp_pathway_list = []
+            for index in np.arange(2, 48):
+                if row[index] == 1: 
+                    temp_pathway_list.append(pathway_name_list[index - 2])
+            if len(temp_pathway_list) == 0:
+                temp_pathway_list = ['NaN']
+                print(row[1])
+            multi_pathway_list.append(temp_pathway_list)
+        # print(multi_pathway_list)
+        # print(len(multi_pathway_list))
+        # CONVERT EACH GENES TARGETED DRUGS/ CONNECTION TO PATHWAYS TO DATAFRAME
+        drug_gene_pathway = {'Drugs': multi_drug_list, 'Genes': gene_list, 'Pathways': multi_pathway_list}
+        drug_gene_pathway_df = pd.DataFrame(drug_gene_pathway, columns=['Drugs', 'Genes', 'Pathways'])
+        drug_gene_pathway_df.to_csv('./datainfo/filtered_data/drug_gene_pathway.csv', index = False, header = True)
+        print(drug_gene_pathway_df)
 
 
 if __name__ == "__main__":
     dir_opt = '/datainfo'
-
-    Reform(dir_opt).drug_gene_reform()
+    Reform(dir_opt).drug_gene_pathway_reform()

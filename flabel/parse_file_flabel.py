@@ -493,7 +493,7 @@ if __name__ == "__main__":
     # DOING K-FOLD VALIDATION IN 100% DATASET
     random_mode = False
     k = 5
-    place_num = 1
+    place_num = 2
     k_fold_split(random_mode, k, place_num)
 
     # ParseFile.random_label()
