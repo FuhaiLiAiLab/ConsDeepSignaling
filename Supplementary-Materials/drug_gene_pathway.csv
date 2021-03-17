@@ -1,0 +1,930 @@
+Drugs,Genes,Pathways
+"['Dasatinib', 'Nilotinib']",ABL1,"['ErbB signaling pathway', 'Ras signaling pathway', 'Neurotrophin signaling pathway', 'Cell cycle']"
+['Dasatinib'],ABL2,"['ErbB signaling pathway', 'Ras signaling pathway']"
+['NaN'],ACACA,"['AMPK signaling pathway', 'Insulin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],ACOX1,['cAMP signaling pathway']
+['NaN'],ACOX3,['cAMP signaling pathway']
+['NaN'],ACSL1,['Adipocytokine signaling pathway']
+['NaN'],ACSL3,['Adipocytokine signaling pathway']
+['NaN'],ACTB,"['Rap1 signaling pathway', 'Hippo signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],ACTG1,"['Rap1 signaling pathway', 'Hippo signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],ACVR1,['TGF-beta signaling pathway']
+['NaN'],ACVR1B,['TGF-beta signaling pathway']
+['NaN'],ACVR2A,['TGF-beta signaling pathway']
+['NaN'],ADAM17,['Notch signaling pathway']
+['NaN'],ADCY3,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ADCY6,"['Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ADCY7,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ADCY9,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ADIPOR1,"['AMPK signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],ADIPOR2,"['AMPK signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],ADORA2B,"['Rap1 signaling pathway', 'Calcium signaling pathway']"
+['NaN'],AFDN,"['Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway']"
+['NaN'],AGER,['AGE-RAGE signaling pathway in diabetic complications']
+['NaN'],AIFM2,['p53 signaling pathway']
+['NaN'],AJUBA,['Hippo signaling pathway']
+['NaN'],AKT1,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],AKT1S1,"['mTOR signaling pathway', 'AMPK signaling pathway']"
+['NaN'],AKT2,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],AKT3,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],ALDOA,['HIF-1 signaling pathway']
+['NaN'],AMH,"['cAMP signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],ANAPC1,['Cell cycle']
+['NaN'],ANAPC10,['Cell cycle']
+['NaN'],ANAPC11,['Cell cycle']
+['NaN'],ANAPC13,['Cell cycle']
+['NaN'],ANAPC2,['Cell cycle']
+['NaN'],ANAPC4,['Cell cycle']
+['NaN'],ANAPC5,['Cell cycle']
+['NaN'],ANAPC7,['Cell cycle']
+['NaN'],APAF1,['p53 signaling pathway']
+['NaN'],APC,"['Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],APH1A,['Notch signaling pathway']
+['NaN'],APH1B,['Notch signaling pathway']
+['NaN'],ARF1,['Phospholipase D signaling pathway']
+['NaN'],ARF6,"['Ras signaling pathway', 'Phospholipase D signaling pathway']"
+['NaN'],ARHGDIA,['Neurotrophin signaling pathway']
+['NaN'],ARHGDIB,['Neurotrophin signaling pathway']
+['NaN'],ARHGEF12,['C-type lectin receptor signaling pathway']
+['NaN'],ARNT,['HIF-1 signaling pathway']
+['NaN'],ARRB1,"['MAPK signaling pathway', 'Chemokine signaling pathway', 'Hedgehog signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ARRB2,"['MAPK signaling pathway', 'Chemokine signaling pathway', 'Hedgehog signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ATF2,"['MAPK signaling pathway', 'cGMP-PKG signaling pathway', 'PI3K-Akt signaling pathway', 'TNF signaling pathway', 'Estrogen signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ATF4,"['MAPK signaling pathway', 'cGMP-PKG signaling pathway', 'PI3K-Akt signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ATF6B,"['cGMP-PKG signaling pathway', 'PI3K-Akt signaling pathway', 'TNF signaling pathway', 'Estrogen signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],ATG12,"['FoxO signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],ATG16L1,['NOD-like receptor signaling pathway']
+['NaN'],ATG5,"['NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],ATM,"['FoxO signaling pathway', 'p53 signaling pathway', 'Cell cycle']"
+['NaN'],ATP1A1,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],ATP1B1,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],ATP1B3,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],ATP2A2,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],ATP2B1,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway']"
+['NaN'],ATP2B4,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway']"
+['NaN'],ATP6V1A,['mTOR signaling pathway']
+['NaN'],ATP6V1B2,['mTOR signaling pathway']
+['NaN'],ATP6V1C1,['mTOR signaling pathway']
+['NaN'],ATP6V1D,['mTOR signaling pathway']
+['NaN'],ATP6V1E1,['mTOR signaling pathway']
+['NaN'],ATP6V1E2,['mTOR signaling pathway']
+['NaN'],ATP6V1F,['mTOR signaling pathway']
+['NaN'],ATP6V1G1,['mTOR signaling pathway']
+['NaN'],ATP6V1H,['mTOR signaling pathway']
+['NaN'],ATR,"['p53 signaling pathway', 'Cell cycle']"
+['NaN'],AXIN1,"['Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],AZI2,['RIG-I-like receptor signaling pathway']
+['Navitoclax'],BAD,"['ErbB signaling pathway', 'Ras signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],BAG4,['TNF signaling pathway']
+['NaN'],BAMBI,"['Wnt signaling pathway', 'TGF-beta signaling pathway']"
+['NaN'],BAX,"['Sphingolipid signaling pathway', 'p53 signaling pathway', 'Neurotrophin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],BBC3,"['p53 signaling pathway', 'Hippo signaling pathway']"
+['NaN'],BCAR1,"['Rap1 signaling pathway', 'Chemokine signaling pathway']"
+['NaN'],BCL10,"['C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway']"
+['NaN'],BCL2L1,"['Ras signaling pathway', 'NF-kappa B signaling pathway', 'p53 signaling pathway', 'PI3K-Akt signaling pathway', 'NOD-like receptor signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],BCL2L11,"['FoxO signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],BCL3,['C-type lectin receptor signaling pathway']
+['NaN'],BCL6,['FoxO signaling pathway']
+['NaN'],BECN1,['Apelin signaling pathway']
+['NaN'],BID,"['Sphingolipid signaling pathway', 'p53 signaling pathway']"
+['NaN'],BIRC2,"['NF-kappa B signaling pathway', 'Hippo signaling pathway', 'NOD-like receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],BIRC5,['Hippo signaling pathway']
+['NaN'],BMPR1A,"['TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],BMPR2,"['TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],BNIP3,['FoxO signaling pathway']
+"['Dabrafenib', 'Sorafenib']",BRAF,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'mTOR signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],BRAP,['Ras signaling pathway']
+['NaN'],BTRC,"['Wnt signaling pathway', 'Hedgehog signaling pathway', 'Hippo signaling pathway']"
+['NaN'],BUB1,['Cell cycle']
+['NaN'],BUB1B,['Cell cycle']
+['NaN'],BUB3,['Cell cycle']
+['NaN'],CAB39,"['mTOR signaling pathway', 'AMPK signaling pathway']"
+['NaN'],CAB39L,"['mTOR signaling pathway', 'AMPK signaling pathway']"
+['NaN'],CACNB1,"['MAPK signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],CACNB3,"['MAPK signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],CACYBP,['Wnt signaling pathway']
+['NaN'],CALM1,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CALM2,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CALM3,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CALML4,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CAMK2D,"['ErbB signaling pathway', 'Calcium signaling pathway', 'cAMP signaling pathway', 'HIF-1 signaling pathway', 'Wnt signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CAMK2G,"['ErbB signaling pathway', 'Calcium signaling pathway', 'cAMP signaling pathway', 'HIF-1 signaling pathway', 'Wnt signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CAMKK2,"['AMPK signaling pathway', 'Adipocytokine signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],CARD10,['NF-kappa B signaling pathway']
+['NaN'],CARD8,['NOD-like receptor signaling pathway']
+['NaN'],CASP3,"['MAPK signaling pathway', 'p53 signaling pathway', 'TNF signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],CASP4,['NOD-like receptor signaling pathway']
+['NaN'],CASP7,['TNF signaling pathway']
+['NaN'],CASP8,"['p53 signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],CASP9,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],CAT,['FoxO signaling pathway']
+['NaN'],CBL,"['ErbB signaling pathway', 'Insulin signaling pathway']"
+['NaN'],CBLB,"['ErbB signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'Insulin signaling pathway']"
+['NaN'],CCNA2,"['AMPK signaling pathway', 'Cell cycle']"
+['NaN'],CCNB1,"['FoxO signaling pathway', 'p53 signaling pathway', 'Cell cycle']"
+['NaN'],CCNB2,"['FoxO signaling pathway', 'p53 signaling pathway', 'Cell cycle']"
+['NaN'],CCND1,"['FoxO signaling pathway', 'p53 signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Wnt signaling pathway', 'Hedgehog signaling pathway', 'Apelin signaling pathway', 'Hippo signaling pathway', 'JAK-STAT signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications', 'Cell cycle']"
+['NaN'],CCND3,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway', 'JAK-STAT signaling pathway', 'Cell cycle']"
+['NaN'],CCNE1,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'Cell cycle']"
+['NaN'],CCNE2,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'Cell cycle']"
+['NaN'],CCNG1,['p53 signaling pathway']
+['NaN'],CCNG2,"['FoxO signaling pathway', 'p53 signaling pathway']"
+['NaN'],CCNH,['Cell cycle']
+['NaN'],CD82,['p53 signaling pathway']
+['NaN'],CDC14A,['Cell cycle']
+['NaN'],CDC14B,['Cell cycle']
+['NaN'],CDC16,['Cell cycle']
+['NaN'],CDC20,['Cell cycle']
+['NaN'],CDC23,['Cell cycle']
+['NaN'],CDC25A,['Cell cycle']
+['NaN'],CDC25B,"['MAPK signaling pathway', 'Cell cycle']"
+['NaN'],CDC25C,['Cell cycle']
+['NaN'],CDC26,['Cell cycle']
+['NaN'],CDC27,['Cell cycle']
+['NaN'],CDC37,['PI3K-Akt signaling pathway']
+['NaN'],CDC42,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'VEGF signaling pathway', 'T cell receptor signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],CDC45,['Cell cycle']
+['NaN'],CDC6,['Cell cycle']
+['NaN'],CDC7,['Cell cycle']
+['NaN'],CDK1,"['p53 signaling pathway', 'Cell cycle']"
+['Staurosporine'],CDK2,"['FoxO signaling pathway', 'p53 signaling pathway', 'PI3K-Akt signaling pathway', 'Cell cycle']"
+"['Palbociclib', 'Ribociclib']",CDK4,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'T cell receptor signaling pathway', 'Cell cycle']"
+"['Palbociclib', 'Ribociclib']",CDK6,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'Cell cycle']"
+['NaN'],CDK7,['Cell cycle']
+['NaN'],CDKN1A,"['ErbB signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'p53 signaling pathway', 'PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway', 'Oxytocin signaling pathway', 'Cell cycle']"
+['NaN'],CDKN1B,"['ErbB signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'PI3K-Akt signaling pathway', 'Cell cycle']"
+['NaN'],CDKN2C,['Cell cycle']
+['NaN'],CDKN2D,"['FoxO signaling pathway', 'Cell cycle']"
+['NaN'],CEBPB,['TNF signaling pathway']
+['NaN'],CFLAR,"['NF-kappa B signaling pathway', 'TNF signaling pathway']"
+['NaN'],CHD8,['Wnt signaling pathway']
+['NaN'],CHEK1,"['p53 signaling pathway', 'Cell cycle']"
+['NaN'],CHEK2,"['p53 signaling pathway', 'Cell cycle']"
+['NaN'],CHUK,"['MAPK signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'NF-kappa B signaling pathway', 'FoxO signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'TNF signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],CIR1,['Notch signaling pathway']
+['NaN'],COL6A1,['PI3K-Akt signaling pathway']
+['NaN'],COP1,['p53 signaling pathway']
+['NaN'],CPT1A,"['AMPK signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CREB1,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'TNF signaling pathway', 'Estrogen signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],CREB3,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'TNF signaling pathway', 'Estrogen signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],CREB3L2,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'TNF signaling pathway', 'Estrogen signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],CREB3L4,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'TNF signaling pathway', 'Estrogen signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],CREBBP,"['cAMP signaling pathway', 'HIF-1 signaling pathway', 'Wnt signaling pathway', 'Notch signaling pathway', 'TGF-beta signaling pathway', 'JAK-STAT signaling pathway', 'Thyroid hormone signaling pathway', 'Glucagon signaling pathway', 'Cell cycle']"
+['NaN'],CRK,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],CRKL,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],CRTC2,"['PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],CSNK1A1,"['Wnt signaling pathway', 'Hedgehog signaling pathway']"
+['NaN'],CSNK1D,"['Hedgehog signaling pathway', 'Hippo signaling pathway']"
+['NaN'],CSNK1E,"['FoxO signaling pathway', 'Wnt signaling pathway', 'Hedgehog signaling pathway', 'Hippo signaling pathway']"
+['NaN'],CSNK1G1,['Hedgehog signaling pathway']
+['NaN'],CSNK1G2,['Hedgehog signaling pathway']
+['NaN'],CSNK1G3,['Hedgehog signaling pathway']
+['NaN'],CSNK2A1,"['NF-kappa B signaling pathway', 'Wnt signaling pathway']"
+['NaN'],CSNK2A2,"['NF-kappa B signaling pathway', 'Wnt signaling pathway']"
+['NaN'],CSNK2A3,"['NF-kappa B signaling pathway', 'Wnt signaling pathway']"
+['NaN'],CSNK2B,"['NF-kappa B signaling pathway', 'Wnt signaling pathway']"
+['NaN'],CTBP1,"['Wnt signaling pathway', 'Notch signaling pathway']"
+['NaN'],CTBP2,"['Wnt signaling pathway', 'Notch signaling pathway']"
+['NaN'],CTGF,"['Apelin signaling pathway', 'Hippo signaling pathway']"
+['NaN'],CTNNA1,['Hippo signaling pathway']
+['NaN'],CTNNB1,"['Rap1 signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],CTNNBIP1,['Wnt signaling pathway']
+['NaN'],CTNND1,['Rap1 signaling pathway']
+['NaN'],CTSB,['NOD-like receptor signaling pathway']
+['NaN'],CTSD,"['Sphingolipid signaling pathway', 'Estrogen signaling pathway']"
+['NaN'],CUL1,"['Wnt signaling pathway', 'Hedgehog signaling pathway', 'TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],CUL3,['Hedgehog signaling pathway']
+['NaN'],CXCL16,['Chemokine signaling pathway']
+['NaN'],CYBA,['NOD-like receptor signaling pathway']
+['NaN'],CYCS,['p53 signaling pathway']
+['NaN'],CYLD,"['RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],CYTH1,['Phospholipase D signaling pathway']
+['NaN'],CYTH2,['Phospholipase D signaling pathway']
+['NaN'],CYTH3,['Phospholipase D signaling pathway']
+['NaN'],DAAM1,['Wnt signaling pathway']
+['NaN'],DAB2IP,['TNF signaling pathway']
+['NaN'],DAXX,['MAPK signaling pathway']
+['NaN'],DBF4,['Cell cycle']
+['NaN'],DDB2,['p53 signaling pathway']
+['NaN'],DDIT3,['MAPK signaling pathway']
+['NaN'],DDIT4,"['mTOR signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],DDX58,"['NF-kappa B signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],DEPDC5,['mTOR signaling pathway']
+['NaN'],DHX33,['NOD-like receptor signaling pathway']
+['NaN'],DIAPH1,['AGE-RAGE signaling pathway in diabetic complications']
+['NaN'],DLG1,"['Hippo signaling pathway', 'T cell receptor signaling pathway']"
+['NaN'],DLG4,['Hippo signaling pathway']
+['NaN'],DNM1L,"['NOD-like receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],DTX2,['Notch signaling pathway']
+['NaN'],DTX3,['Notch signaling pathway']
+['NaN'],DTX3L,['Notch signaling pathway']
+['NaN'],DUSP1,['MAPK signaling pathway']
+['NaN'],DUSP10,['MAPK signaling pathway']
+['NaN'],DUSP16,['MAPK signaling pathway']
+['NaN'],DUSP3,['MAPK signaling pathway']
+['NaN'],DUSP4,['MAPK signaling pathway']
+['NaN'],DUSP5,['MAPK signaling pathway']
+['NaN'],DUSP6,['MAPK signaling pathway']
+['NaN'],DUSP7,['MAPK signaling pathway']
+['NaN'],DVL1,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Notch signaling pathway', 'Hippo signaling pathway']"
+['NaN'],DVL2,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Notch signaling pathway', 'Hippo signaling pathway']"
+['NaN'],DVL3,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Notch signaling pathway', 'Hippo signaling pathway']"
+['NaN'],E2F1,['Cell cycle']
+['NaN'],E2F2,['Cell cycle']
+['NaN'],E2F3,['Cell cycle']
+['NaN'],E2F4,"['TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],E2F5,"['TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],EBAG9,['Estrogen signaling pathway']
+['NaN'],ECSIT,['MAPK signaling pathway']
+['NaN'],EEF2,"['AMPK signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],EEF2K,"['AMPK signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],EFNA1,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],EFNA4,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],EFNA5,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+"['Afatinib', 'Erlotinib', 'Gefitinib', 'Lapatinib', 'Osimertinib']",EGFR,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Phospholipase D signaling pathway', 'PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],EGLN1,['HIF-1 signaling pathway']
+['NaN'],EGLN2,['HIF-1 signaling pathway']
+['NaN'],EGR1,"['Apelin signaling pathway', 'GnRH signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],EI24,['p53 signaling pathway']
+['NaN'],EIF4B,"['mTOR signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],EIF4E,"['HIF-1 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'Insulin signaling pathway']"
+['NaN'],EIF4E2,"['HIF-1 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'Insulin signaling pathway']"
+['NaN'],EIF4EBP1,"['ErbB signaling pathway', 'HIF-1 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway']"
+['NaN'],ELAVL1,['AMPK signaling pathway']
+['NaN'],ELK4,['MAPK signaling pathway']
+['NaN'],ELOB,['HIF-1 signaling pathway']
+['NaN'],ELOC,['HIF-1 signaling pathway']
+['NaN'],ENO1,['HIF-1 signaling pathway']
+['NaN'],ENO2,['HIF-1 signaling pathway']
+['NaN'],ENO3,['HIF-1 signaling pathway']
+['NaN'],EP300,"['cAMP signaling pathway', 'HIF-1 signaling pathway', 'Wnt signaling pathway', 'Notch signaling pathway', 'TGF-beta signaling pathway', 'JAK-STAT signaling pathway', 'Thyroid hormone signaling pathway', 'Glucagon signaling pathway', 'Cell cycle']"
+['Dasatinib'],EPHA2,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],EPOR,"['PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway']"
+"['Afatinib', 'Lapatinib']",ERBB2,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Calcium signaling pathway', 'HIF-1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],ERBIN,['NOD-like receptor signaling pathway']
+['NaN'],ESPL1,['Cell cycle']
+['NaN'],ETS1,['Ras signaling pathway']
+['NaN'],ETS2,['Ras signaling pathway']
+['NaN'],EVC,['Hedgehog signaling pathway']
+['NaN'],EXOC2,['Ras signaling pathway']
+['NaN'],EXOC7,['Insulin signaling pathway']
+['NaN'],F2R,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cAMP signaling pathway', 'Phospholipase D signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],F3,['AGE-RAGE signaling pathway in diabetic complications']
+['NaN'],FADD,"['Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],FARP2,['Rap1 signaling pathway']
+['NaN'],FAS,"['MAPK signaling pathway', 'p53 signaling pathway']"
+['NaN'],FASN,"['AMPK signaling pathway', 'Insulin signaling pathway']"
+['NaN'],FBXO25,['FoxO signaling pathway']
+['NaN'],FBXW11,"['Wnt signaling pathway', 'Hedgehog signaling pathway', 'Hippo signaling pathway']"
+['Sorafenib'],FGFR1,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],FLCN,['mTOR signaling pathway']
+['NaN'],FLNB,['MAPK signaling pathway']
+['NaN'],FLOT1,['Insulin signaling pathway']
+['NaN'],FLOT2,['Insulin signaling pathway']
+['NaN'],FN1,['PI3K-Akt signaling pathway']
+['NaN'],FNIP1,['mTOR signaling pathway']
+['NaN'],FNIP2,['mTOR signaling pathway']
+['NaN'],FOS,"['MAPK signaling pathway', 'cAMP signaling pathway', 'Toll-like receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],FOSL1,"['Wnt signaling pathway', 'IL-17 signaling pathway']"
+['NaN'],FOXO1,"['FoxO signaling pathway', 'Insulin signaling pathway', 'Thyroid hormone signaling pathway', 'Glucagon signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],FOXO3,"['Chemokine signaling pathway', 'FoxO signaling pathway', 'PI3K-Akt signaling pathway', 'Neurotrophin signaling pathway', 'Prolactin signaling pathway']"
+['NaN'],FRAT2,['Wnt signaling pathway']
+['NaN'],FRMD6,['Hippo signaling pathway']
+['NaN'],FRS2,['Neurotrophin signaling pathway']
+['Dasatinib'],FYN,"['Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway']"
+['NaN'],FZD1,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],FZD2,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],FZD5,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],FZD6,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],FZD7,"['mTOR signaling pathway', 'Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],FZR1,['Cell cycle']
+['NaN'],G6PC3,"['FoxO signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],GAB1,"['ErbB signaling pathway', 'Ras signaling pathway', 'Phospholipase D signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],GAB2,"['Ras signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'Fc epsilon RI signaling pathway']"
+['NaN'],GABARAP,"['FoxO signaling pathway', 'Apelin signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],GABARAPL1,"['FoxO signaling pathway', 'Apelin signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],GABARAPL2,"['FoxO signaling pathway', 'Apelin signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],GABBR1,"['cAMP signaling pathway', 'Estrogen signaling pathway']"
+['NaN'],GADD45A,"['MAPK signaling pathway', 'FoxO signaling pathway', 'p53 signaling pathway', 'Cell cycle']"
+['NaN'],GADD45B,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'FoxO signaling pathway', 'p53 signaling pathway', 'Cell cycle']"
+['NaN'],GALT,['Prolactin signaling pathway']
+['NaN'],GAPDH,['HIF-1 signaling pathway']
+['NaN'],GNA11,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'GnRH signaling pathway']"
+['NaN'],GNA12,"['MAPK signaling pathway', 'cGMP-PKG signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway']"
+['NaN'],GNA13,"['cGMP-PKG signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway']"
+['NaN'],GNAI1,"['Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Apelin signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNAI2,"['Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Apelin signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNAI3,"['Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Apelin signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNAQ,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Sphingolipid signaling pathway', 'Apelin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],GNAS,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cAMP signaling pathway', 'Phospholipase D signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNB1,"['Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNB2,"['Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNB4,"['Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNB5,"['Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNG10,"['Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNG12,"['MAPK signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GNG5,"['Ras signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GRB10,['mTOR signaling pathway']
+['NaN'],GRB2,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],GRK2,"['Chemokine signaling pathway', 'Hedgehog signaling pathway']"
+['NaN'],GRK3,"['Chemokine signaling pathway', 'Hedgehog signaling pathway']"
+['NaN'],GRK6,['Chemokine signaling pathway']
+['NaN'],GSDMD,['NOD-like receptor signaling pathway']
+['NaN'],GSK3A,['Chemokine signaling pathway']
+['Staurosporine'],GSK3B,"['ErbB signaling pathway', 'Chemokine signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'Wnt signaling pathway', 'Hedgehog signaling pathway', 'Hippo signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Cell cycle']"
+['NaN'],GTF2I,['cGMP-PKG signaling pathway']
+['NaN'],GTF2IRD1,['cGMP-PKG signaling pathway']
+['NaN'],GTSE1,['p53 signaling pathway']
+['NaN'],GYS1,"['PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],HBEGF,"['ErbB signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway']"
+['Vorinostat'],HDAC1,"['Notch signaling pathway', 'Thyroid hormone signaling pathway', 'Cell cycle']"
+['Vorinostat'],HDAC2,"['Notch signaling pathway', 'Thyroid hormone signaling pathway', 'Cell cycle']"
+['Vorinostat'],HDAC3,['Thyroid hormone signaling pathway']
+['NaN'],HDAC4,['Apelin signaling pathway']
+['NaN'],HDAC5,['Apelin signaling pathway']
+['NaN'],HES1,['Notch signaling pathway']
+['NaN'],HIF1A,"['HIF-1 signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],HK1,"['HIF-1 signaling pathway', 'Insulin signaling pathway']"
+['NaN'],HK2,"['HIF-1 signaling pathway', 'Insulin signaling pathway']"
+['NaN'],HMGCR,['AMPK signaling pathway']
+['NaN'],HMOX1,['HIF-1 signaling pathway']
+['NaN'],HOMER1,['FoxO signaling pathway']
+['NaN'],HOMER3,['FoxO signaling pathway']
+['NaN'],HRAS,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],HSP90AA1,"['PI3K-Akt signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],HSP90AB1,"['PI3K-Akt signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],HSP90B1,['PI3K-Akt signaling pathway']
+['NaN'],HSPA1A,['MAPK signaling pathway']
+['NaN'],HSPA1B,['MAPK signaling pathway']
+['Dasatinib'],HSPA8,['MAPK signaling pathway']
+['NaN'],HSPB1,"['MAPK signaling pathway', 'VEGF signaling pathway']"
+['NaN'],ICAM1,"['NF-kappa B signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],ID1,"['Rap1 signaling pathway', 'Hippo signaling pathway']"
+['NaN'],ID2,['Hippo signaling pathway']
+['NaN'],IFI16,['NOD-like receptor signaling pathway']
+['NaN'],IFIH1,['RIG-I-like receptor signaling pathway']
+['NaN'],IFNAR1,"['PI3K-Akt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],IFNAR2,"['PI3K-Akt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],IFNGR1,"['HIF-1 signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],IFNGR2,"['HIF-1 signaling pathway', 'JAK-STAT signaling pathway']"
+['Linsitinib'],IGF1R,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway']"
+['NaN'],IKBKB,"['MAPK signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'NF-kappa B signaling pathway', 'FoxO signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],IKBKE,"['Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],IL10RB,['JAK-STAT signaling pathway']
+['NaN'],IL11RA,['JAK-STAT signaling pathway']
+['NaN'],IL27RA,['JAK-STAT signaling pathway']
+['NaN'],IL4R,"['PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],IL6ST,['JAK-STAT signaling pathway']
+['NaN'],INPP5K,['Insulin signaling pathway']
+['NaN'],INPPL1,"['B cell receptor signaling pathway', 'Insulin signaling pathway']"
+['NaN'],INSR,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway']"
+['NaN'],INVS,['Wnt signaling pathway']
+['NaN'],IRAK4,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],IRF1,"['C-type lectin receptor signaling pathway', 'TNF signaling pathway', 'Prolactin signaling pathway']"
+['NaN'],IRF3,"['Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],IRF7,"['Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],IRS1,"['cGMP-PKG signaling pathway', 'FoxO signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],IRS2,"['cGMP-PKG signaling pathway', 'FoxO signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],ISG15,['RIG-I-like receptor signaling pathway']
+['NaN'],ITCH,['TNF signaling pathway']
+['NaN'],ITGA2,['PI3K-Akt signaling pathway']
+['NaN'],ITGA3,['PI3K-Akt signaling pathway']
+['NaN'],ITGA5,['PI3K-Akt signaling pathway']
+['NaN'],ITGA6,['PI3K-Akt signaling pathway']
+['NaN'],ITGAV,"['PI3K-Akt signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],ITGB1,"['Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],ITGB5,['PI3K-Akt signaling pathway']
+['NaN'],ITPKB,['Calcium signaling pathway']
+['NaN'],ITPKC,['Calcium signaling pathway']
+['NaN'],ITPR2,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Apelin signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],ITPR3,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Apelin signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],JAG1,"['Notch signaling pathway', 'Apelin signaling pathway']"
+['NaN'],JAG2,['Notch signaling pathway']
+['Ruxolitinib'],JAK1,"['PI3K-Akt signaling pathway', 'NOD-like receptor signaling pathway', 'JAK-STAT signaling pathway']"
+['Ruxolitinib'],JAK2,"['Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Vinblastine'],JUN,"['MAPK signaling pathway', 'ErbB signaling pathway', 'cAMP signaling pathway', 'Wnt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],JUND,"['MAPK signaling pathway', 'IL-17 signaling pathway']"
+['NaN'],KAT2A,"['Notch signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],KAT2B,"['Notch signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],KIDINS220,['Neurotrophin signaling pathway']
+['NaN'],KIF3A,['Hedgehog signaling pathway']
+['NaN'],KIF7,['Hedgehog signaling pathway']
+['NaN'],KITLG,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Phospholipase D signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],KRAS,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],KRIT1,['Rap1 signaling pathway']
+['NaN'],KRT10,['Estrogen signaling pathway']
+['NaN'],KRT18,['Estrogen signaling pathway']
+['NaN'],LAMA5,['PI3K-Akt signaling pathway']
+['NaN'],LAMB1,['PI3K-Akt signaling pathway']
+['NaN'],LAMB2,['PI3K-Akt signaling pathway']
+['NaN'],LAMB3,['PI3K-Akt signaling pathway']
+['NaN'],LAMC1,['PI3K-Akt signaling pathway']
+['NaN'],LAMTOR1,['mTOR signaling pathway']
+['NaN'],LAMTOR2,['mTOR signaling pathway']
+['NaN'],LAMTOR3,"['MAPK signaling pathway', 'mTOR signaling pathway']"
+['NaN'],LAMTOR4,['mTOR signaling pathway']
+['NaN'],LAMTOR5,['mTOR signaling pathway']
+['NaN'],LATS1,['Hippo signaling pathway']
+['NaN'],LATS2,['Hippo signaling pathway']
+['NaN'],LDHA,['HIF-1 signaling pathway']
+['NaN'],LFNG,['Notch signaling pathway']
+['NaN'],LIF,['JAK-STAT signaling pathway']
+['NaN'],LIMD1,['Hippo signaling pathway']
+['NaN'],LLGL1,['Hippo signaling pathway']
+['NaN'],LLGL2,['Hippo signaling pathway']
+['NaN'],LPAR2,"['Rap1 signaling pathway', 'Phospholipase D signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],LRP5,"['mTOR signaling pathway', 'Wnt signaling pathway']"
+['NaN'],LRP6,"['mTOR signaling pathway', 'Wnt signaling pathway']"
+['NaN'],LTB4R2,['Calcium signaling pathway']
+['NaN'],LTBP1,['TGF-beta signaling pathway']
+['NaN'],LTBR,"['NF-kappa B signaling pathway', 'HIF-1 signaling pathway']"
+['Dasatinib'],LYN,"['Chemokine signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway']"
+['NaN'],MAD1L1,['Cell cycle']
+['NaN'],MAD2L1,['Cell cycle']
+['NaN'],MAD2L2,['Cell cycle']
+['NaN'],MAGI1,"['Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],MAGI3,['Rap1 signaling pathway']
+['NaN'],MALT1,"['C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway']"
+['NaN'],MAML1,['Notch signaling pathway']
+['NaN'],MAML2,['Notch signaling pathway']
+['Trametinib'],MAP2K1,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['Trametinib'],MAP2K2,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],MAP2K3,"['MAPK signaling pathway', 'Rap1 signaling pathway', 'Toll-like receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'GnRH signaling pathway']"
+['NaN'],MAP2K4,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Toll-like receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'GnRH signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],MAP2K5,"['MAPK signaling pathway', 'Neurotrophin signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],MAP2K7,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Toll-like receptor signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],MAP3K1,"['MAPK signaling pathway', 'RIG-I-like receptor signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway']"
+['NaN'],MAP3K11,['MAPK signaling pathway']
+['NaN'],MAP3K12,['MAPK signaling pathway']
+['NaN'],MAP3K13,['MAPK signaling pathway']
+['NaN'],MAP3K14,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],MAP3K2,"['MAPK signaling pathway', 'GnRH signaling pathway']"
+['Dasatinib'],MAP3K20,['MAPK signaling pathway']
+['NaN'],MAP3K3,"['MAPK signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway']"
+['NaN'],MAP3K4,"['MAPK signaling pathway', 'GnRH signaling pathway']"
+['NaN'],MAP3K5,"['MAPK signaling pathway', 'Sphingolipid signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],MAP3K6,['MAPK signaling pathway']
+['NaN'],MAP3K7,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'AMPK signaling pathway', 'Wnt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],MAP4K2,['MAPK signaling pathway']
+['NaN'],MAP4K3,['MAPK signaling pathway']
+['NaN'],MAP4K4,['MAPK signaling pathway']
+['Ulixertinib'],MAPK1,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],MAPK11,"['MAPK signaling pathway', 'Rap1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],MAPK12,"['MAPK signaling pathway', 'Rap1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Dasatinib'],MAPK14,"['MAPK signaling pathway', 'Rap1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Ulixertinib'],MAPK3,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],MAPK7,"['MAPK signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],MAPK8,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'cAMP signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Wnt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],MAPK8IP1,['MAPK signaling pathway']
+['NaN'],MAPK8IP3,['MAPK signaling pathway']
+['NaN'],MAPK9,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'cAMP signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Wnt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],MAPKAP1,['mTOR signaling pathway']
+['Staurosporine'],MAPKAPK2,"['MAPK signaling pathway', 'VEGF signaling pathway', 'C-type lectin receptor signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],MAPKAPK3,"['MAPK signaling pathway', 'VEGF signaling pathway']"
+['NaN'],MAPKAPK5,['MAPK signaling pathway']
+['NaN'],MAVS,"['NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],MAX,['MAPK signaling pathway']
+['NaN'],MCL1,"['PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],MCM2,['Cell cycle']
+['NaN'],MCM3,['Cell cycle']
+['NaN'],MCM4,['Cell cycle']
+['NaN'],MCM5,['Cell cycle']
+['NaN'],MCM6,['Cell cycle']
+['NaN'],MCM7,['Cell cycle']
+['NaN'],MDM2,"['p53 signaling pathway', 'PI3K-Akt signaling pathway', 'C-type lectin receptor signaling pathway', 'Thyroid hormone signaling pathway', 'Cell cycle']"
+['NaN'],MDM4,['p53 signaling pathway']
+['NaN'],MED1,['Thyroid hormone signaling pathway']
+['NaN'],MED13,['Thyroid hormone signaling pathway']
+['NaN'],MED13L,['Thyroid hormone signaling pathway']
+['NaN'],MED16,['Thyroid hormone signaling pathway']
+['NaN'],MED17,['Thyroid hormone signaling pathway']
+['NaN'],MED24,['Thyroid hormone signaling pathway']
+['NaN'],MED27,['Thyroid hormone signaling pathway']
+['NaN'],MED30,['Thyroid hormone signaling pathway']
+['NaN'],MED4,['Thyroid hormone signaling pathway']
+['NaN'],MEF2A,"['cGMP-PKG signaling pathway', 'Apelin signaling pathway']"
+['NaN'],MEF2D,"['cGMP-PKG signaling pathway', 'Apelin signaling pathway']"
+['Crizotinib'],MET,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],MFN1,['NOD-like receptor signaling pathway']
+['NaN'],MFN2,['NOD-like receptor signaling pathway']
+['NaN'],MIOS,['mTOR signaling pathway']
+['NaN'],MKNK1,"['MAPK signaling pathway', 'HIF-1 signaling pathway', 'Insulin signaling pathway']"
+['NaN'],MKNK2,"['MAPK signaling pathway', 'HIF-1 signaling pathway', 'Insulin signaling pathway']"
+['NaN'],MLKL,['TNF signaling pathway']
+['NaN'],MLST8,"['mTOR signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],MMP14,['GnRH signaling pathway']
+['NaN'],MOB1A,['Hippo signaling pathway']
+['NaN'],MOB1B,['Hippo signaling pathway']
+['NaN'],MPP5,['Hippo signaling pathway']
+['NaN'],MTOR,"['ErbB signaling pathway', 'HIF-1 signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Apelin signaling pathway', 'JAK-STAT signaling pathway', 'Insulin signaling pathway', 'Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],MYC,"['MAPK signaling pathway', 'ErbB signaling pathway', 'PI3K-Akt signaling pathway', 'Wnt signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway', 'JAK-STAT signaling pathway', 'Thyroid hormone signaling pathway', 'Cell cycle']"
+['NaN'],MYD88,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],MYL6,['Oxytocin signaling pathway']
+['NaN'],MYL6B,['Oxytocin signaling pathway']
+['Daporinad'],NAMPT,['NOD-like receptor signaling pathway']
+['NaN'],NCK1,"['ErbB signaling pathway', 'T cell receptor signaling pathway']"
+['NaN'],NCK2,"['ErbB signaling pathway', 'T cell receptor signaling pathway']"
+['NaN'],NCOA1,"['Estrogen signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],NCOA2,"['Estrogen signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],NCOA3,"['Estrogen signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],NCOR1,['Thyroid hormone signaling pathway']
+['NaN'],NCOR2,['Notch signaling pathway']
+['NaN'],NCSTN,['Notch signaling pathway']
+['NaN'],NEK7,['NOD-like receptor signaling pathway']
+['NaN'],NF1,"['MAPK signaling pathway', 'Ras signaling pathway']"
+['NaN'],NF2,['Hippo signaling pathway']
+['NaN'],NFATC3,"['MAPK signaling pathway', 'cGMP-PKG signaling pathway', 'Wnt signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],NFKB1,"['MAPK signaling pathway', 'Ras signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'NF-kappa B signaling pathway', 'HIF-1 signaling pathway', 'Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],NFKB2,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],NFKBIA,"['cAMP signaling pathway', 'Chemokine signaling pathway', 'NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Adipocytokine signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],NFKBIB,"['Chemokine signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Neurotrophin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],NFKBIE,"['T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Neurotrophin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],NLK,"['MAPK signaling pathway', 'FoxO signaling pathway', 'Wnt signaling pathway']"
+['NaN'],NLRX1,"['NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],NOD1,['NOD-like receptor signaling pathway']
+['NaN'],NOTCH1,"['Notch signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],NOTCH2,"['Notch signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],NPRL2,['mTOR signaling pathway']
+['NaN'],NPRL3,['mTOR signaling pathway']
+['NaN'],NR4A1,"['MAPK signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],NRAS,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],NRF1,['Apelin signaling pathway']
+['NaN'],NSMAF,['Sphingolipid signaling pathway']
+['NaN'],NUMB,['Notch signaling pathway']
+['NaN'],NUMBL,['Notch signaling pathway']
+['NaN'],ORAI1,"['Calcium signaling pathway', 'cAMP signaling pathway']"
+['NaN'],ORAI2,['Calcium signaling pathway']
+['NaN'],ORAI3,['Calcium signaling pathway']
+['NaN'],ORC1,['Cell cycle']
+['NaN'],ORC2,['Cell cycle']
+['NaN'],ORC3,['Cell cycle']
+['NaN'],ORC4,['Cell cycle']
+['NaN'],ORC5,['Cell cycle']
+['NaN'],ORC6,['Cell cycle']
+['NaN'],P2RX4,['Calcium signaling pathway']
+['NaN'],PAK1,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway']"
+['NaN'],PAK2,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'T cell receptor signaling pathway']"
+['NaN'],PAK4,"['ErbB signaling pathway', 'Ras signaling pathway', 'T cell receptor signaling pathway']"
+['NaN'],PARD3,"['Rap1 signaling pathway', 'Chemokine signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PARD6A,"['Rap1 signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PARD6B,"['Rap1 signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PATJ,['Hippo signaling pathway']
+['NaN'],PCK2,"['FoxO signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PCNA,['Cell cycle']
+['NaN'],PDHB,['HIF-1 signaling pathway']
+['NaN'],PDK1,['HIF-1 signaling pathway']
+['Staurosporine'],PDPK1,"['FoxO signaling pathway', 'Sphingolipid signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],PERP,['p53 signaling pathway']
+['NaN'],PFKFB2,"['AMPK signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],PFKFB3,"['HIF-1 signaling pathway', 'AMPK signaling pathway']"
+['NaN'],PFKFB4,['AMPK signaling pathway']
+['NaN'],PFKL,"['HIF-1 signaling pathway', 'AMPK signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PFKM,['AMPK signaling pathway']
+['NaN'],PFKP,"['AMPK signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],PFN1,['Rap1 signaling pathway']
+['NaN'],PFN2,['Rap1 signaling pathway']
+['NaN'],PGAM5,['TNF signaling pathway']
+['NaN'],PHKB,"['Calcium signaling pathway', 'Insulin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PHKG2,"['Calcium signaling pathway', 'Insulin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PHLPP1,['PI3K-Akt signaling pathway']
+['NaN'],PHLPP2,['PI3K-Akt signaling pathway']
+['NaN'],PIAS1,['JAK-STAT signaling pathway']
+['NaN'],PIAS2,['JAK-STAT signaling pathway']
+['NaN'],PIAS3,['JAK-STAT signaling pathway']
+['NaN'],PIAS4,['JAK-STAT signaling pathway']
+['NaN'],PIDD1,['p53 signaling pathway']
+['NaN'],PIK3C3,['Apelin signaling pathway']
+['NaN'],PIK3CA,"['ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PIK3CB,"['ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PIK3CD,"['ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PIK3R1,"['ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PIK3R3,"['ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PIK3R4,['Apelin signaling pathway']
+['Staurosporine'],PIM1,"['JAK-STAT signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PIN1,['RIG-I-like receptor signaling pathway']
+['NaN'],PIP5K1A,['Phospholipase D signaling pathway']
+['NaN'],PIP5K1C,['Phospholipase D signaling pathway']
+['NaN'],PKM,['Glucagon signaling pathway']
+['NaN'],PKMYT1,['Cell cycle']
+['NaN'],PKN1,['PI3K-Akt signaling pathway']
+['NaN'],PKN2,['PI3K-Akt signaling pathway']
+['NaN'],PKN3,['PI3K-Akt signaling pathway']
+['NaN'],PLA2G12A,['Ras signaling pathway']
+['NaN'],PLA2G16,['Ras signaling pathway']
+['NaN'],PLA2G6,['Ras signaling pathway']
+['NaN'],PLCB3,"['Rap1 signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'Wnt signaling pathway', 'Apelin signaling pathway', 'NOD-like receptor signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PLCD3,"['Calcium signaling pathway', 'Thyroid hormone signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PLCG1,"['ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'NF-kappa B signaling pathway', 'HIF-1 signaling pathway', 'Phospholipase D signaling pathway', 'VEGF signaling pathway', 'T cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Thyroid hormone signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PLD2,"['Ras signaling pathway', 'cAMP signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'GnRH signaling pathway']"
+['NaN'],PLK1,"['FoxO signaling pathway', 'Cell cycle']"
+['NaN'],PLK2,['FoxO signaling pathway']
+['NaN'],PLK3,"['FoxO signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],PLK4,['FoxO signaling pathway']
+['NaN'],PMAIP1,['p53 signaling pathway']
+['NaN'],PPARA,"['cAMP signaling pathway', 'Adipocytokine signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PPARD,['Wnt signaling pathway']
+['NaN'],PPIF,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],PPM1A,['MAPK signaling pathway']
+['NaN'],PPM1B,['MAPK signaling pathway']
+['NaN'],PPM1D,['p53 signaling pathway']
+['NaN'],PPP1CA,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Hippo signaling pathway', 'Insulin signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],PPP1CB,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Hippo signaling pathway', 'Insulin signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],PPP1CC,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Hippo signaling pathway', 'Insulin signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],PPP1R12A,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],PPP1R12B,['Oxytocin signaling pathway']
+['NaN'],PPP1R12C,['Oxytocin signaling pathway']
+['NaN'],PPP1R3B,['Insulin signaling pathway']
+['NaN'],PPP1R3D,['Insulin signaling pathway']
+['NaN'],PPP1R3E,['Insulin signaling pathway']
+['NaN'],PPP2CA,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PPP2CB,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PPP2R1A,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PPP2R1B,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PPP2R2A,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PPP2R2D,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],PPP2R3A,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP2R3C,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP2R5A,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP2R5B,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP2R5C,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP2R5D,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP2R5E,"['Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PPP3CA,"['MAPK signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PPP3CB,"['MAPK signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PPP3CC,"['MAPK signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PPP3R1,"['MAPK signaling pathway', 'Calcium signaling pathway', 'cGMP-PKG signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PPP4C,['Glucagon signaling pathway']
+['NaN'],PPP4R3A,['Glucagon signaling pathway']
+['NaN'],PPP4R3B,['Glucagon signaling pathway']
+['NaN'],PPP5C,['MAPK signaling pathway']
+['NaN'],PRDM4,['Neurotrophin signaling pathway']
+['NaN'],PRKAA1,"['FoxO signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PRKAB1,"['FoxO signaling pathway', 'AMPK signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PRKAB2,"['FoxO signaling pathway', 'AMPK signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PRKACA,"['MAPK signaling pathway', 'Ras signaling pathway', 'Calcium signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Wnt signaling pathway', 'Hedgehog signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],PRKACB,"['MAPK signaling pathway', 'Ras signaling pathway', 'Calcium signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Wnt signaling pathway', 'Hedgehog signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],PRKAG1,"['FoxO signaling pathway', 'AMPK signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PRKAG2,"['FoxO signaling pathway', 'AMPK signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway', 'Adipocytokine signaling pathway', 'Oxytocin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PRKAR1A,['Insulin signaling pathway']
+['NaN'],PRKAR1B,['Insulin signaling pathway']
+['NaN'],PRKAR2A,['Insulin signaling pathway']
+['Tamoxifen'],PRKCA,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'Calcium signaling pathway', 'HIF-1 signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'PI3K-Akt signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'Fc epsilon RI signaling pathway', 'GnRH signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Tamoxifen'],PRKCD,"['Chemokine signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'Neurotrophin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Tamoxifen'],PRKCE,"['cGMP-PKG signaling pathway', 'Sphingolipid signaling pathway', 'Apelin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Tamoxifen'],PRKCI,"['Rap1 signaling pathway', 'Hippo signaling pathway', 'Insulin signaling pathway']"
+['Tamoxifen'],PRKCZ,"['Rap1 signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Hippo signaling pathway', 'Insulin signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],PRKD2,['Rap1 signaling pathway']
+['NaN'],PRKD3,['Rap1 signaling pathway']
+['NaN'],PRKDC,['Cell cycle']
+['NaN'],PRMT1,"['FoxO signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PSEN1,"['Wnt signaling pathway', 'Notch signaling pathway']"
+['NaN'],PSEN2,['Notch signaling pathway']
+['NaN'],PSENEN,['Notch signaling pathway']
+['NaN'],PTEN,"['FoxO signaling pathway', 'Sphingolipid signaling pathway', 'p53 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway']"
+['NaN'],PTK2,"['ErbB signaling pathway', 'Chemokine signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway']"
+['Leflunomide'],PTK2B,"['Calcium signaling pathway', 'Chemokine signaling pathway', 'Phospholipase D signaling pathway', 'GnRH signaling pathway']"
+['NaN'],PTPN1,['Insulin signaling pathway']
+['NaN'],PTPN11,"['Ras signaling pathway', 'Phospholipase D signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'Neurotrophin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],PTPN2,['JAK-STAT signaling pathway']
+['NaN'],PTPN6,"['JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway']"
+['NaN'],PTPRF,['Insulin signaling pathway']
+['NaN'],PTTG1,['Cell cycle']
+['NaN'],PXN,"['Chemokine signaling pathway', 'VEGF signaling pathway']"
+['NaN'],PYGB,"['Insulin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],PYGL,"['Insulin signaling pathway', 'Glucagon signaling pathway']"
+['NaN'],RAB10,['AMPK signaling pathway']
+['NaN'],RAB11B,['AMPK signaling pathway']
+['NaN'],RAB14,['AMPK signaling pathway']
+['NaN'],RAB2A,['AMPK signaling pathway']
+['NaN'],RAB5A,['Ras signaling pathway']
+['NaN'],RAB5B,['Ras signaling pathway']
+['NaN'],RAB5C,['Ras signaling pathway']
+['NaN'],RAB8A,['AMPK signaling pathway']
+['NaN'],RAC1,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'Toll-like receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],RAC3,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Sphingolipid signaling pathway', 'Wnt signaling pathway', 'VEGF signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway']"
+['NaN'],RAD21,['Cell cycle']
+"['Dabrafenib', 'Sorafenib']",RAF1,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],RALA,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Phospholipase D signaling pathway']"
+['NaN'],RALB,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Phospholipase D signaling pathway']"
+['NaN'],RALBP1,['Ras signaling pathway']
+['NaN'],RALGDS,"['Ras signaling pathway', 'Rap1 signaling pathway', 'Phospholipase D signaling pathway']"
+['NaN'],RAP1A,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],RAP1B,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],RAPGEF1,"['Rap1 signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],RAPGEF2,"['MAPK signaling pathway', 'Rap1 signaling pathway']"
+['NaN'],RARA,['Estrogen signaling pathway']
+['NaN'],RASA1,"['MAPK signaling pathway', 'Ras signaling pathway']"
+['NaN'],RASA2,"['MAPK signaling pathway', 'Ras signaling pathway']"
+['NaN'],RASA3,['Ras signaling pathway']
+['NaN'],RASAL2,['Ras signaling pathway']
+['NaN'],RASSF1,"['Ras signaling pathway', 'Hippo signaling pathway']"
+['NaN'],RB1,['Cell cycle']
+['NaN'],RBCK1,['NOD-like receptor signaling pathway']
+['NaN'],RBL1,"['TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],RBL2,"['FoxO signaling pathway', 'PI3K-Akt signaling pathway', 'Cell cycle']"
+['NaN'],RBPJ,['Notch signaling pathway']
+['NaN'],RBX1,"['HIF-1 signaling pathway', 'Wnt signaling pathway', 'TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],RCAN1,"['Thyroid hormone signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],RCHY1,['p53 signaling pathway']
+['NaN'],RELA,"['MAPK signaling pathway', 'Ras signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'NF-kappa B signaling pathway', 'HIF-1 signaling pathway', 'Sphingolipid signaling pathway', 'PI3K-Akt signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'IL-17 signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'TNF signaling pathway', 'Neurotrophin signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],RELB,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],RFNG,['Notch signaling pathway']
+['NaN'],RGL2,['Ras signaling pathway']
+['NaN'],RGS14,['Rap1 signaling pathway']
+['NaN'],RGS2,"['cGMP-PKG signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],RHEB,"['Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],RHOA,"['Ras signaling pathway', 'Rap1 signaling pathway', 'cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'Wnt signaling pathway', 'TGF-beta signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'T cell receptor signaling pathway', 'Neurotrophin signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],RHOQ,['Insulin signaling pathway']
+['NaN'],RICTOR,['mTOR signaling pathway']
+['NaN'],RIPK1,"['NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],RIPK2,"['NOD-like receptor signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],RNF31,['NOD-like receptor signaling pathway']
+['NaN'],ROCK1,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'TGF-beta signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],ROCK2,"['cGMP-PKG signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'Sphingolipid signaling pathway', 'Wnt signaling pathway', 'Oxytocin signaling pathway']"
+['NaN'],RPS6,"['HIF-1 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],RPS6KA1,"['MAPK signaling pathway', 'mTOR signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],RPS6KA4,"['MAPK signaling pathway', 'TNF signaling pathway']"
+['NaN'],RPS6KB1,"['ErbB signaling pathway', 'HIF-1 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'TGF-beta signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],RPS6KB2,"['ErbB signaling pathway', 'HIF-1 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'TGF-beta signaling pathway', 'Apelin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],RPTOR,"['mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway']"
+['NaN'],RRAGA,['mTOR signaling pathway']
+['NaN'],RRAGC,['mTOR signaling pathway']
+['NaN'],RRAS,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],RRAS2,"['MAPK signaling pathway', 'Ras signaling pathway', 'cAMP signaling pathway', 'Phospholipase D signaling pathway', 'Apelin signaling pathway', 'C-type lectin receptor signaling pathway']"
+['NaN'],RRM2,['p53 signaling pathway']
+['NaN'],RRM2B,['p53 signaling pathway']
+['NaN'],RUVBL1,['Wnt signaling pathway']
+['NaN'],RXRA,"['PI3K-Akt signaling pathway', 'Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],RXRB,"['Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],S1PR2,['Sphingolipid signaling pathway']
+['NaN'],SAV1,['Hippo signaling pathway']
+['NaN'],SCD,['AMPK signaling pathway']
+['NaN'],SCD5,['AMPK signaling pathway']
+['NaN'],SCRIB,['Hippo signaling pathway']
+['NaN'],SEC13,['mTOR signaling pathway']
+['NaN'],SEH1L,['mTOR signaling pathway']
+['NaN'],SENP2,['Wnt signaling pathway']
+['NaN'],SESN1,['p53 signaling pathway']
+['NaN'],SESN2,"['p53 signaling pathway', 'mTOR signaling pathway']"
+['NaN'],SETD7,['FoxO signaling pathway']
+['NaN'],SH2B1,['Neurotrophin signaling pathway']
+['NaN'],SH2B2,"['Neurotrophin signaling pathway', 'Insulin signaling pathway']"
+['NaN'],SH2B3,['Neurotrophin signaling pathway']
+['NaN'],SHARPIN,['NOD-like receptor signaling pathway']
+['NaN'],SHC1,"['ErbB signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'Phospholipase D signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],SHISA5,['p53 signaling pathway']
+['NaN'],SHOC2,['Ras signaling pathway']
+['NaN'],SIAH1,"['p53 signaling pathway', 'Wnt signaling pathway']"
+['NaN'],SIK2,['Glucagon signaling pathway']
+['NaN'],SIKE1,['RIG-I-like receptor signaling pathway']
+['NaN'],SIN3A,['Thyroid hormone signaling pathway']
+['NaN'],SIPA1,['Rap1 signaling pathway']
+['NaN'],SIPA1L1,['Rap1 signaling pathway']
+['NaN'],SIRT1,['AMPK signaling pathway']
+['NaN'],SIVA1,['p53 signaling pathway']
+['NaN'],SKP1,"['Wnt signaling pathway', 'TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],SKP2,"['mTOR signaling pathway', 'Cell cycle']"
+['NaN'],SLC25A4,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],SLC2A1,"['HIF-1 signaling pathway', 'Thyroid hormone signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],SLC38A9,['mTOR signaling pathway']
+['NaN'],SLC3A2,['mTOR signaling pathway']
+['NaN'],SLC7A5,['mTOR signaling pathway']
+['NaN'],SLC9A1,"['cAMP signaling pathway', 'Apelin signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],SMAD1,"['TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],SMAD2,"['FoxO signaling pathway', 'TGF-beta signaling pathway', 'Apelin signaling pathway', 'Hippo signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications', 'Cell cycle']"
+['NaN'],SMAD3,"['FoxO signaling pathway', 'TGF-beta signaling pathway', 'Apelin signaling pathway', 'Hippo signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications', 'Cell cycle']"
+['NaN'],SMAD4,"['FoxO signaling pathway', 'Wnt signaling pathway', 'TGF-beta signaling pathway', 'Apelin signaling pathway', 'Hippo signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications', 'Cell cycle']"
+['NaN'],SMAD5,['TGF-beta signaling pathway']
+['NaN'],SMAD6,['TGF-beta signaling pathway']
+['NaN'],SMAD7,"['TGF-beta signaling pathway', 'Hippo signaling pathway']"
+['NaN'],SMC3,['Cell cycle']
+['NaN'],SMPD1,['Sphingolipid signaling pathway']
+['NaN'],SMPD2,['Sphingolipid signaling pathway']
+['NaN'],SMURF1,"['Hedgehog signaling pathway', 'TGF-beta signaling pathway']"
+['NaN'],SMURF2,"['Hedgehog signaling pathway', 'TGF-beta signaling pathway']"
+['NaN'],SNW1,['Notch signaling pathway']
+['NaN'],SOCS3,"['JAK-STAT signaling pathway', 'Insulin signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],SOCS4,"['JAK-STAT signaling pathway', 'Insulin signaling pathway', 'Prolactin signaling pathway']"
+['NaN'],SOCS5,"['JAK-STAT signaling pathway', 'Prolactin signaling pathway']"
+['NaN'],SOCS6,"['JAK-STAT signaling pathway', 'Prolactin signaling pathway']"
+['NaN'],SOCS7,"['JAK-STAT signaling pathway', 'Prolactin signaling pathway']"
+['NaN'],SOD2,['FoxO signaling pathway']
+['NaN'],SORT1,['Neurotrophin signaling pathway']
+['NaN'],SOS1,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],SOS2,"['MAPK signaling pathway', 'ErbB signaling pathway', 'Ras signaling pathway', 'Chemokine signaling pathway', 'FoxO signaling pathway', 'Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'JAK-STAT signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway', 'Neurotrophin signaling pathway', 'Insulin signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],SOX9,['cAMP signaling pathway']
+['NaN'],SP1,"['TGF-beta signaling pathway', 'Estrogen signaling pathway']"
+['NaN'],SPHK2,"['Calcium signaling pathway', 'Sphingolipid signaling pathway', 'Phospholipase D signaling pathway', 'VEGF signaling pathway', 'Apelin signaling pathway']"
+['NaN'],SPOP,['Hedgehog signaling pathway']
+['NaN'],SPOPL,['Hedgehog signaling pathway']
+['Dasatinib'],SRC,"['ErbB signaling pathway', 'Rap1 signaling pathway', 'Chemokine signaling pathway', 'VEGF signaling pathway', 'C-type lectin receptor signaling pathway', 'GnRH signaling pathway', 'Estrogen signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'Oxytocin signaling pathway', 'Relaxin signaling pathway']"
+['NaN'],SREBF1,"['AMPK signaling pathway', 'Insulin signaling pathway']"
+['NaN'],SRF,"['MAPK signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],STAG1,['Cell cycle']
+['NaN'],STAM,['JAK-STAT signaling pathway']
+['NaN'],STAM2,['JAK-STAT signaling pathway']
+['NaN'],STAT1,"['Chemokine signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway', 'Prolactin signaling pathway', 'Thyroid hormone signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],STAT2,"['Chemokine signaling pathway', 'NOD-like receptor signaling pathway', 'C-type lectin receptor signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],STAT3,"['Chemokine signaling pathway', 'HIF-1 signaling pathway', 'FoxO signaling pathway', 'JAK-STAT signaling pathway', 'Prolactin signaling pathway', 'Adipocytokine signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['Dasatinib'],STAT5B,"['ErbB signaling pathway', 'Chemokine signaling pathway', 'JAK-STAT signaling pathway', 'Prolactin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],STAT6,['JAK-STAT signaling pathway']
+['NaN'],STEAP3,['p53 signaling pathway']
+['NaN'],STIM1,['Calcium signaling pathway']
+['NaN'],STIM2,['Calcium signaling pathway']
+['NaN'],STK11,"['FoxO signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],STK3,"['MAPK signaling pathway', 'Hippo signaling pathway']"
+['NaN'],STK4,"['MAPK signaling pathway', 'Ras signaling pathway', 'FoxO signaling pathway']"
+['NaN'],STMN1,['MAPK signaling pathway']
+['NaN'],STRADA,"['mTOR signaling pathway', 'AMPK signaling pathway']"
+['NaN'],STRADB,"['mTOR signaling pathway', 'AMPK signaling pathway']"
+['NaN'],SUFU,['Hedgehog signaling pathway']
+['NaN'],SUGT1,['NOD-like receptor signaling pathway']
+['NaN'],SYNGAP1,['Ras signaling pathway']
+['NaN'],TAB1,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],TAB2,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'IL-17 signaling pathway']"
+['NaN'],TANK,"['NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],TAOK1,['MAPK signaling pathway']
+['NaN'],TAOK2,['MAPK signaling pathway']
+['NaN'],TAOK3,['MAPK signaling pathway']
+['NaN'],TBC1D1,['AMPK signaling pathway']
+['NaN'],TBC1D4,['Thyroid hormone signaling pathway']
+['NaN'],TBC1D7,['mTOR signaling pathway']
+['NaN'],TBK1,"['Ras signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],TBKBP1,['RIG-I-like receptor signaling pathway']
+['NaN'],TBL1XR1,['Wnt signaling pathway']
+['NaN'],TCF7L2,"['Wnt signaling pathway', 'Hippo signaling pathway']"
+['NaN'],TEAD1,['Hippo signaling pathway']
+['NaN'],TEAD2,['Hippo signaling pathway']
+['NaN'],TEAD3,['Hippo signaling pathway']
+['NaN'],TEAD4,['Hippo signaling pathway']
+['NaN'],TELO2,['mTOR signaling pathway']
+['NaN'],TFAM,['Apelin signaling pathway']
+['NaN'],TFDP1,"['TGF-beta signaling pathway', 'Cell cycle']"
+['NaN'],TFDP2,['Cell cycle']
+['NaN'],TFRC,['HIF-1 signaling pathway']
+['NaN'],TGFB1,"['MAPK signaling pathway', 'FoxO signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications', 'Cell cycle']"
+['NaN'],TGFBR1,"['MAPK signaling pathway', 'FoxO signaling pathway', 'TGF-beta signaling pathway', 'Apelin signaling pathway', 'Hippo signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],TGFBR2,"['MAPK signaling pathway', 'FoxO signaling pathway', 'TGF-beta signaling pathway', 'Hippo signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],THBS1,"['Rap1 signaling pathway', 'p53 signaling pathway', 'PI3K-Akt signaling pathway', 'TGF-beta signaling pathway']"
+['NaN'],THBS3,['PI3K-Akt signaling pathway']
+['NaN'],THEM4,['PI3K-Akt signaling pathway']
+['NaN'],THRA,['Thyroid hormone signaling pathway']
+['NaN'],TIAM1,"['Ras signaling pathway', 'Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway']"
+['NaN'],TICAM1,"['NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],TIRAP,"['NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway']"
+['NaN'],TKFC,['RIG-I-like receptor signaling pathway']
+['NaN'],TLN1,['Rap1 signaling pathway']
+['NaN'],TMEM173,"['NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],TNFAIP3,"['NF-kappa B signaling pathway', 'NOD-like receptor signaling pathway']"
+['NaN'],TNFRSF10B,['p53 signaling pathway']
+['NaN'],TNFRSF1A,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Sphingolipid signaling pathway', 'mTOR signaling pathway', 'TNF signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],TOLLIP,['Toll-like receptor signaling pathway']
+['NaN'],TP53,"['MAPK signaling pathway', 'Sphingolipid signaling pathway', 'p53 signaling pathway', 'PI3K-Akt signaling pathway', 'Wnt signaling pathway', 'Neurotrophin signaling pathway', 'Thyroid hormone signaling pathway', 'Cell cycle']"
+['NaN'],TP53BP1,['NOD-like receptor signaling pathway']
+['NaN'],TP53BP2,['Hippo signaling pathway']
+['NaN'],TP53I3,['p53 signaling pathway']
+['NaN'],TRADD,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Sphingolipid signaling pathway', 'RIG-I-like receptor signaling pathway', 'TNF signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],TRAF2,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Sphingolipid signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'TNF signaling pathway', 'Adipocytokine signaling pathway']"
+['NaN'],TRAF3,"['NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],TRAF5,"['NF-kappa B signaling pathway', 'NOD-like receptor signaling pathway', 'TNF signaling pathway']"
+['NaN'],TRAF6,"['MAPK signaling pathway', 'NF-kappa B signaling pathway', 'Toll-like receptor signaling pathway', 'NOD-like receptor signaling pathway', 'RIG-I-like receptor signaling pathway', 'IL-17 signaling pathway', 'Neurotrophin signaling pathway']"
+['NaN'],TRIM25,"['NF-kappa B signaling pathway', 'RIG-I-like receptor signaling pathway']"
+['NaN'],TRIP10,['Insulin signaling pathway']
+['NaN'],TRIP6,['NOD-like receptor signaling pathway']
+['NaN'],TSC1,"['Phospholipase D signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway']"
+['NaN'],TSC2,"['Phospholipase D signaling pathway', 'p53 signaling pathway', 'mTOR signaling pathway', 'PI3K-Akt signaling pathway', 'AMPK signaling pathway', 'Insulin signaling pathway', 'Thyroid hormone signaling pathway']"
+['NaN'],TTI1,['mTOR signaling pathway']
+['NaN'],TTK,['Cell cycle']
+['NaN'],TXN,['NOD-like receptor signaling pathway']
+['NaN'],TXN2,['NOD-like receptor signaling pathway']
+['NaN'],TXNIP,['NOD-like receptor signaling pathway']
+['NaN'],TYK2,"['NOD-like receptor signaling pathway', 'JAK-STAT signaling pathway']"
+['NaN'],ULK1,['AMPK signaling pathway']
+['NaN'],USP7,['FoxO signaling pathway']
+['NaN'],VANGL1,['Wnt signaling pathway']
+['NaN'],VASP,"['Rap1 signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],VAV2,"['Rap1 signaling pathway', 'cAMP signaling pathway', 'Chemokine signaling pathway', 'T cell receptor signaling pathway', 'B cell receptor signaling pathway', 'Fc epsilon RI signaling pathway']"
+['NaN'],VDAC1,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],VDAC2,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],VDAC3,"['Calcium signaling pathway', 'cGMP-PKG signaling pathway']"
+['NaN'],VEGFA,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'HIF-1 signaling pathway', 'PI3K-Akt signaling pathway', 'VEGF signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],VEGFB,"['MAPK signaling pathway', 'Ras signaling pathway', 'Rap1 signaling pathway', 'PI3K-Akt signaling pathway', 'Relaxin signaling pathway', 'AGE-RAGE signaling pathway in diabetic complications']"
+['NaN'],VHL,['HIF-1 signaling pathway']
+['NaN'],WASL,['Chemokine signaling pathway']
+['NaN'],WDR24,['mTOR signaling pathway']
+['NaN'],WDR59,['mTOR signaling pathway']
+['MK-1775'],WEE1,['Cell cycle']
+['NaN'],WWC1,['Hippo signaling pathway']
+['NaN'],WWTR1,['Hippo signaling pathway']
+['NaN'],YAP1,['Hippo signaling pathway']
+['NaN'],YWHAB,"['PI3K-Akt signaling pathway', 'Hippo signaling pathway', 'Cell cycle']"
+['NaN'],YWHAE,"['PI3K-Akt signaling pathway', 'Hippo signaling pathway', 'Neurotrophin signaling pathway', 'Cell cycle']"
+['NaN'],YWHAG,"['PI3K-Akt signaling pathway', 'Hippo signaling pathway', 'Cell cycle']"
+['NaN'],YWHAH,"['PI3K-Akt signaling pathway', 'Hippo signaling pathway', 'Cell cycle']"
+['NaN'],YWHAQ,"['PI3K-Akt signaling pathway', 'Hippo signaling pathway', 'Cell cycle']"
+['NaN'],YWHAZ,"['PI3K-Akt signaling pathway', 'Hippo signaling pathway', 'Cell cycle']"
+['NaN'],ZBTB17,['Cell cycle']
+['NaN'],ZFYVE16,['TGF-beta signaling pathway']
+['NaN'],ZFYVE9,['TGF-beta signaling pathway']
+['NaN'],ZMAT3,['p53 signaling pathway']
+['NaN'],ZNF274,['Neurotrophin signaling pathway']
