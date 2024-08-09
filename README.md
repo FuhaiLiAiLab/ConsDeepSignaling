@@ -8,7 +8,6 @@ In this study, we proposed a not fully connected deep learning model, ConsDeepSi
 * pandas
 * sklearn
 
-
 ## 1.Data Preprocess
 This study intergrates following datasets
 * GDSC drug effect dataset 
